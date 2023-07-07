@@ -1,1 +1,1 @@
-#confeccionando meu-curriculo
+curriculo
